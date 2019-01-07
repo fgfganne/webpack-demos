@@ -1,0 +1,12 @@
+{
+  "name": "demo04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev":"webpack-dev-server --open",
+    "build":"webpack -p"
+  },
+  "author": "",
+  "license": "ISC"
+}

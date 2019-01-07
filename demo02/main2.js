@@ -1,0 +1,1 @@
+document.write('<h2>Hello 佛哥</h2>');
